@@ -1,0 +1,5 @@
+Max Point Num: 100
+Random Seed: 660
+Size: 40
+Stair Width: 1.5
+Max Height: 5
